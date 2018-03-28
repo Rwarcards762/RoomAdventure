@@ -1,5 +1,5 @@
 ###########################################################################################
-# Name: Room Adventure v1.05
+# Name: Christopher Rice - Room Adventure
 # Date: 3/27/18
 # Description: An adventure game! You start in a house and try and escape.
 ###########################################################################################
