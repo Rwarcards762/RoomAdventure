@@ -369,7 +369,7 @@ class Game(Frame):
                         \n-help is now more helpful\
                         \n-Win screen disables entry bar \n-intro message now features 'read' \n-read fucntion improved significantly\
                         \n= v 1.06 release =\
-                        \n-desk added \n-room image placeholders removed \n-final text edits \n-GitHub repo added!"
+                        \n-desk added \n-room image placeholders removed \n-final text edits \n-GitHub repo added! \n-PATCH: flipoff switch fixed"
                 if (Game.currentRoom == None): # player goes to a death room
                         # clear the player's input
                         Game.player_input.delete(0, END)
