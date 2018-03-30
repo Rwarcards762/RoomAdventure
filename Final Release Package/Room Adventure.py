@@ -474,8 +474,8 @@ class Game(Frame):
                                 if (Game.currentRoom == r2):
                                         r2.delItem('switch')
                                         r9.delExit('fan')
-                                        r2.delItem('fan')
-                                        r2.addItem('fan', "If you could get the fan to stop spinning, it \nlooks like it's big enough for you to climb down \ninto the attic.")
+                                        r9.delItem('fan')
+                                        r9.addItem('fan', "If you could get the fan to stop spinning, it \nlooks like it's big enough for you to climb down \ninto the attic.")
                                         r2.addItem('switch', "Not sure what it does, but\
                                                 \nit's currently off. You could turn it\
                                                 \nback on with 'flipon switch.'")
